@@ -24,7 +24,7 @@
     <ClInclude Include="resource.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
-    <ClInclude Include="WindowsProject1.h">
+    <ClInclude Include="EpVolume.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
   </ItemGroup>
